@@ -4,5 +4,6 @@
 - 🤔 I’m looking for help with preventing my dog from eating junk off the ground
 - 💬 Ask me about anything
 - 📫 How to reach me: my full name without both 'a's at gmail
-- 😄 Pronouns: anything goes
 - ⚡ Fun fact: I successfully trained myself to love Marmite
+- 🌈 Something I'm pretty proud of: [matanmazor.github.io/thesis](https://matanmazor.github.io/thesis)
+- 🎓 More about me: [matanmazor.github.io](https://matanmazor.github.io)
