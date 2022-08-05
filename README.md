@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on studying the relation between self-modeling and the representation of nothing
-- 🌱 I’m currently learning JS (three.js, Vue.js)
+- 🔭 I’m currently working on studying the way people simulate counterfactual mental states.
+- 🌱 I’m currently learning Arabic 
 - 👯 I’m looking to collaborate on self-modeling, large-scale online studies with adults and children
 - 🤔 I’m looking for help with preventing my dog from eating junk off the ground
 - 💬 Ask me about anything
