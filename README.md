@@ -1,9 +1,8 @@
 - 🔭 I’m currently working on studying the way people simulate counterfactual mental states.
 - 🌱 I’m currently learning Arabic 
 - 👯 I’m looking to collaborate on self-modeling, large-scale online studies with adults and children
-- 🤔 I’m looking for help with preventing my dog from eating junk off the ground
+- 🤔 I’m looking for help with floating back to Chaturanga
 - 💬 Ask me about anything
 - 📫 How to reach me: my full name without both 'a's at gmail
 - ⚡ Fun fact: I successfully trained myself to love Marmite
-- 🌈 Something I'm pretty proud of: [matanmazor.github.io/thesis](https://matanmazor.github.io/thesis)
 - 🎓 More about me: [matanmazor.github.io](https://matanmazor.github.io)
