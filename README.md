@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on self-modeling, large-scale online studies with adults and children
 - 🤔 I’m looking for help with floating back to Chaturanga
 - 💬 Ask me about anything
-- 📫 How to reach me: my full name without both 'a's at gmail
+- 📫 How to reach me: my full name without all three 'a's at gmail
 - ⚡ Fun fact: I successfully trained myself to love Marmite
 - 🎓 More about me: [matanmazor.github.io](https://matanmazor.github.io)
